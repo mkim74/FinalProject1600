@@ -8,4 +8,4 @@ They dictate the clock speed and how fast a computer can run and perform tasks.
 
 The better the CPU, the faster the computer responds to a task. Allowing for multitasking as well. 
 
-**Homepage**
+[Homepage](./README.md)
