@@ -1,8 +1,8 @@
-# Final Project - Tutorial on Computer System Components
+# Final Project - Tutorial on Computer Components
 
 Daniel Kim
 
-This page is a tutorial about the different computer components from their functions to their pros and cons
+This page is a tutorial about the different components within a computer, infornations include their functions to their pros and cons
 
 This page is for those who are either wanting to assemble their own pc or anyone with little to know computer hardware knowledge
 
