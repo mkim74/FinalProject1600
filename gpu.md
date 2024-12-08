@@ -1,4 +1,4 @@
-#The Graphics Processing Unit
+# The Graphics Processing Unit
 
 **The gaming visuals of the computer**
 
