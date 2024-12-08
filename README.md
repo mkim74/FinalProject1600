@@ -2,7 +2,7 @@
 
 Daniel Kim
 
-This page is a tutorial about the different components within a computer, infornations include their functions to their pros and cons
+This page is a tutorial about the different components within a computer, infornations include their functions and their impact on a user's computer.
 
 This page is for those who are either wanting to assemble their own pc or anyone with little to know computer hardware knowledge
 
